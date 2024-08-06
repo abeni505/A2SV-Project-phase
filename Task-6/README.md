@@ -71,18 +71,18 @@ The `jobs.json` file contains job posting data used by the application.
 .
 ├── components
 │   └── jobCard.tsx
+│    └──globals.css
 ├── pages
 │   └── index.tsx
 ├── public
-│   └── screenshots
-│       ├── home_page.png
-│       └── job_card.png
+│   └── 
+├──screenshots
+│    └── home_page.png
+│    └── job_card.png
 ├── types
 │   └── job.ts
 ├── Data
 │   └── jobs.json
-├── styles
-│   └── globals.css
 ├── next.config.js
 ├── package.json
 └── README.md
