@@ -52,6 +52,10 @@ The Home Page displays a list of job postings.
 
 ![Job Card](./screenshots/sign-up.png)
 
+### OTP page
+
+![Job Card](./screenshots/otp.png)
+
 ### Log in page
 
 ![Job Card](./screenshots/LogIn.pngpng)
