@@ -58,7 +58,7 @@ The Home Page displays a list of job postings.
 
 ### Log in page
 
-![Job Card](./screenshots/LogIn.pngpng)
+![Job Card](./screenshots/LogIn.png)
 
 ### Invalid Log in
 
