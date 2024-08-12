@@ -18,9 +18,7 @@ export function middleware(request: NextRequest) {
 
   // Redirect to homepage if trying to access sign-up or OTP page with a token
   if (
-    request.nextUrl.pathname === "/signUp" ||
-    request.nextUrl.pathname === "/otp"
-  ) {
+    request.nextUrl.pathname === "/signUp") {
     if (token) {
       return NextResponse.redirect(new URL("/", request.url));
     }
